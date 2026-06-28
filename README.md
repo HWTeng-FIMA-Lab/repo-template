@@ -19,6 +19,8 @@ confirm our claims.
 
 ## Links to files
 
+*Please modify your own links*
+
 - [Manuscript](https://www.overleaf.com/read/zkkthvvntqqd#b7d069)
 - [Slides](https://canva.link/02xdo8oxssqt7rx)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/10pJkwdMFtUSXe2gVosUeC4_KkT2oLbRwL5o_ne2cUYU/edit?usp=sharing)
