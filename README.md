@@ -1,11 +1,14 @@
 # On Accelerating Monte Carlo Integration Using Orthogonal Projections 
+*[Update your title]*
 
 ## Authors
-
+*[Update authors]*
 Mark Chen 
 
 
 ## Abstract
+
+*[Update abstract]*
 
 Monte Carlo simulation is an indispensable tool in calculating high-dimensional integrals.
 Although Monte Carlo integration is notoriously known for its slow convergence, it could
@@ -20,7 +23,7 @@ confirm our claims.
 
 ## Links to files
 
-*Please modify your own links*
+*Update to include your own links*
 
 - [Manuscript](https://www.overleaf.com/read/zkkthvvntqqd#b7d069)
 - [Slides](https://canva.link/02xdo8oxssqt7rx)
