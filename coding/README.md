@@ -26,7 +26,7 @@
 | 11 | `gen_GARCH.m` | generate paths from GARCH(1,1) model with a constant mean. Usage [Y, V] = gen_GARCH(control, param) | 
 | 12 | `estimate_GARCH.m` | Estimate parameters under the GARCH(1,1) model with a constant mean using matlab built-in function. Usage [est_mu, est_omega, est_alpha, est_beta, Ehat, Vhat, z] = estimate_GARCH(Y) | 
 
-## 3. Test files: Simple test files to check if functions work
+## 3. Test files: Use to generate benchmark outputs
 
 | Index | Function                      | Description                                                         |
 |-------|-------------------------------|---------------------------------------------------------------------|
