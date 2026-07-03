@@ -59,10 +59,10 @@
 
 | Index | Function                      | Description                                                         |
 |-------|-------------------------------|---------------------------------------------------------------------|
-| 11    | `summary_table_APE`           | Create table in `folder_to_save`                                    |
-| 12    | `summary_BS_table_APE`        | Create pivot table for BS model                                     |
-| 13    | `summary_SV_table_APE`        | Create pivot table for SV model                                     |
-| 14    | `summary_SVJ_table_APE`       | Create pivot table for SVJ model                                    |
-| 15    | `summary_SVCJ_table_APE`      | Create pivot table for SVCJ model                                   |
-| 18    | `summary_figure_VaR`          | Calculate numbers below VaR and save the plot                       |
+| 11    | `summary_table_APE`           | Create table in `folder_to_save`. See thesis table 3.1.                                      |
+| 12    | `summary_BS_table_APE`        | Create pivot table for BS model. See thesis table 3.2.        |
+| 13    | `summary_SV_table_APE`        | Create pivot table for SV model. See thesis table 3.3.                                       |
+| 14    | `summary_SVJ_table_APE`       | Create pivot table for SVJ model. See thesis table 3.4.                                      |
+| 15    | `summary_SVCJ_table_APE`      | Create pivot table for SVCJ model. See thesis table 3.5.                                     |
+| 18    | `summary_figure_VaR`          | Calculate numbers below VaR and save the plot. See thesis table 3.6.                        |
 
